@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">exemaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string-array name="contaminacion">
+        <item>Contaminación acuífera</item>
+        <item>Contaminación visual</item>
+        <item>Contaminación auditiva</item>
+        <item>Contaminacióon radiactiva</item>
+        <item>Contaminación del aire</item>
+        </string-array>
+</resources>
