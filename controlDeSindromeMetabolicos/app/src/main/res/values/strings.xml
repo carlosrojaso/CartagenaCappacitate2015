@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Easy Metabolism</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string-array name="examenes">
+            <item>Asignado</item>
+            <item>No asignado</item>
+            <item>En proceso</item>
+        </string-array>
+
+</resources>
