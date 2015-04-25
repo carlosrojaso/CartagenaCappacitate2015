@@ -8,5 +8,6 @@
             <item>No asignado</item>
             <item>En proceso</item>
         </string-array>
+    <string name="title_activity_iniciosesion">iniciosesion</string>
 
 </resources>

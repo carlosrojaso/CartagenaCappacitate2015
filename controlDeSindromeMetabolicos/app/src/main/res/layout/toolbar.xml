@@ -10,12 +10,9 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:minHeight="?attr/actionBarSize"
-        android:elevation="6dp"
+        android:elevation="1dp"
         android:background="@color/colorPrimary"
-        
-
         app:contentInsetStart="@dimen/second_keyline"
-        app:title="Registrar"
+        app:title="Easy Metabolism"
          />
 </LinearLayout>
